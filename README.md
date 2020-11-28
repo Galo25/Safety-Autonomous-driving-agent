@@ -6,6 +6,10 @@ Requirements:
 
 Install carla, FOLLOW THE steps at : https://carla.readthedocs.io/en/latest/
 
+Take all files in this reposetories and drop/replace into CARLA folder at:  /PythonAPI/examples
+
+Insall packages:
+
 tensorflow-gpu==1.12.0
 
 numpy
