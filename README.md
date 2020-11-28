@@ -21,7 +21,7 @@ tensorboard==1.14.0
 ------------------------
 Deep dive into the code: 
 ------------------------
-Check out our PPT "Carla Code_final version" that review the code and explain on our project.
+Check out our PPT "Carla Code_final version" that reviews the code and explains our project.
 
 ----------------
 Run Carla demo : 
