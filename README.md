@@ -2,10 +2,13 @@
 Reinforcement learning (RL) has become a powerful learning framework now capable of learning complex policies in high dimensional environments. This repository demonstrates deep reinforcement learning (DRL) algorithms, provides a taxonomy of automated driving tasks.
 
 
-
-
-***Read Me***
+Requirements: 
 Install carla, FOLLOW THE steps at : https://carla.readthedocs.io/en/latest/
+tensorflow-gpu==1.12.0
+numpy
+scipy
+
+
 
 ----------------
 Run Carla demo : 
