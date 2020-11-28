@@ -18,7 +18,7 @@ Run Carla demo :
 ----------------
 Run Agent : 
 ----------------
-Run test agent : py -3.7 tutorial-video-2.py /n
+Run test agent : py -3.7 tutorial-video-2.py            ||
 Run main : py -3.7 main.py
 
 ----------------
