@@ -21,7 +21,7 @@ tensorboard==1.14.0
 ------------------------
 Deep dive into the code: 
 ------------------------
-Check out our PPT that review the code and explain on our project.
+Check out our PPT "Carla Code_final version" that review the code and explain on our project.
 
 ----------------
 Run Carla demo : 
@@ -59,5 +59,6 @@ Team:  Gal Inbar, Eliav Shalelashvili, Shay Dondik
 Implementation of article : "Autonomous Highway Driving using Deep Reinforcement Learning".
 https://www.researchgate.net/publication/332140365_Autonomous_Highway_Driving_using_Deep_Reinforcement_Learning
 
-
+Big thanks to Sentdex with his tutorial explaining how to install CARLA and Run "test" Agent.
+https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo
 
