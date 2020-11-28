@@ -18,6 +18,11 @@ scipy
 
 tensorboard==1.14.0
 
+------------------------
+Deep dive into the code: 
+------------------------
+Check out our PPT that 
+
 ----------------
 Run Carla demo : 
 ----------------
@@ -41,3 +46,13 @@ View results :
 Check tensorBoard : CMD in examples and type : tensorboard --logdir=logs/
 
 Then open browser and type: localhost:6006 
+
+
+
+Msc. Project in "Autonomou Vehicle".
+
+Team:  Gal Inbar, Eliav Shalelashvili, Shay Dondik 
+
+
+
+
