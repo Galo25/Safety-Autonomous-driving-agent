@@ -12,7 +12,7 @@ numpy
 
 scipy
 
-
+tensorboard==1.14.0
 
 ----------------
 Run Carla demo : 
@@ -35,4 +35,5 @@ Run main : py -3.7 main.py
 View results : 
 ----------------
 Check tensorBoard : CMD in examples and type : tensorboard --logdir=logs/
+
 Then open browser and type: localhost:6006 
