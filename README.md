@@ -3,9 +3,13 @@ Reinforcement learning (RL) has become a powerful learning framework now capable
 
 
 Requirements: 
+
 Install carla, FOLLOW THE steps at : https://carla.readthedocs.io/en/latest/
+
 tensorflow-gpu==1.12.0
+
 numpy
+
 scipy
 
 
@@ -14,8 +18,11 @@ scipy
 Run Carla demo : 
 ----------------
  1.Run CarlaUE4.exe
+ 
  2.Open folder /PythonAPI/examples and open CMD on this location. (Type CMD at the folder path)
+ 
  3.In order to Add 80 cars : type: py -3.7 spawn_npc.py -n 80 
+ 
  4.Manual control : open another CMD and type : py -3.7 manual_control.py
 
 ----------------
