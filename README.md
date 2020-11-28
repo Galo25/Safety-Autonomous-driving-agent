@@ -48,11 +48,15 @@ Check tensorBoard : CMD in examples and type : tensorboard --logdir=logs/
 Then open browser and type: localhost:6006 
 
 
-
+----------------
+Credits : 
+----------------
 Msc. Project in "Autonomou Vehicle".
 
 Team:  Gal Inbar, Eliav Shalelashvili, Shay Dondik 
 
+Implementation of article : "Autonomous Highway Driving using Deep Reinforcement Learning".
+https://www.researchgate.net/publication/332140365_Autonomous_Highway_Driving_using_Deep_Reinforcement_Learning
 
 
 
